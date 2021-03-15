@@ -23,9 +23,13 @@
 # Features Implemented
 
 -> Player can select the difficulty level or make a custom board.
+
 	Following are the constraints for the custom board:
-	i) Number of rows should be less than 23
-	ii) Number of columns should be less than 19
+
+	i) Number of rows should be less than 23.
+
+	ii) Number of columns should be less than 19.
+
 	iii) Number of mines should be always less than 1/4th of the board’s buttons.
 
 -> Best win time and last game time are displayed on the home screen.

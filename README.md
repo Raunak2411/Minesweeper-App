@@ -40,7 +40,7 @@
 
 OR
 
--> Download the zip file - Open the download directory -> MyMinesweeperApp -> app -> build -> outputs -> apk -> debug -> Minesweeper.apk Copy the apk file to your android device. Install, run and enjoy.
+-> Download the zip file - Copy the Minesweeper.apk file to your android device. Install, run and enjoy.
 
 # Screenshots
 <img src = "Screenshots/HomeScreen.jpg" width = 300>

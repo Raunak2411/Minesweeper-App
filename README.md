@@ -43,5 +43,10 @@ OR
 -> Download the zip file - Open the download directory -> MyMinesweeperApp -> app -> build -> outputs -> apk -> debug -> Minesweeper.apk Copy the apk file to your android device. Install, run and enjoy.
 
 # Screenshots
-![](Screenshots/HomeScreen)
+<img src = "Screenshots/HomeScreen.jpg" width = 300>
+
+<img src = "Screenshots/board1.jpg" width = 300>
+
+<img src = "Screenshots/board2.jpg" width = 300>
+
 

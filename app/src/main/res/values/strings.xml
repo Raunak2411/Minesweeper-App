@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Minesweeper App</string>
+    <string name="mines">Mines</string>
+    <string name="time">Time</string>
+    <string name="enterRow">Enter number of Rows</string>
+    <string name="enterCol">Enter number of Columns</string>
+    <string name="enterMine">Enter number of Mines</string>
+    <string name="FLAG">🚩</string>
+
+
+</resources>
